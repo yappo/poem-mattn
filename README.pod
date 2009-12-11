@@ -1,0 +1,22 @@
+=head1 NAME - mattn のギャグ滑った
+
+=head1 SYNOPSIS
+
+  すべった
+  すべった
+
+  mattn の懇親のギャグが
+  滑った
+
+=head1 SEE ALSO
+
+L<http://github.com/mattn>
+
+=head1 AUTHOR
+
+yappo
+
+=head1 LICENSE
+
+This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
+
